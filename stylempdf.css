@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+a {
+    color: #000066;
+    text-decoration: none;
+}
+table {
+    border: 0px solid black;
+    border-collapse: collapse;
+}
+thead {
+    vertical-align: bottom;
+    text-align: center;
+    font-weight: bold;
+}
+tfoot {
+    text-align: center;
+    font-weight: bold;
+}
+th {
+    border: 1px solid black;
+    text-align: left;
+    padding-left: 0.35em;
+    padding-right: 0.35em;
+    padding-top: 0.35em;
+    padding-bottom: 0.35em;
+    vertical-align: top;
+}
+td {
+    padding-left: 0.35em;
+    padding-right: 0.35em;
+    padding-top: 0.35em;
+    padding-bottom: 0.35em;
+    vertical-align: top;
+}
